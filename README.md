@@ -1,11 +1,11 @@
 
 [//]: # (title: AT mode)
 
-[comment]: <> (author: swang)
+[//]: # (author: swang)
 
-[comment]: <> (keywords: Fescar AT mode)
+[//]: #  (keywords: Fescar AT mode)
 
-[comment]: <> (date: 02/12/2019)
+[//]: #  (date: 02/12/2019)
 
 
 
