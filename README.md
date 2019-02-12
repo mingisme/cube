@@ -1,8 +1,8 @@
 
 [//]: # 
-"title: AT mode"
+(title: AT mode)
 [//]: # 
-(author: swang)
+(author: slievrly)
 [//]: # 
 (keywords: Fescar AT mode)
 [//]: # 
