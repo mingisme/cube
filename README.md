@@ -1,6 +1,4 @@
-
-
-[^_^]:
+[^_^]: 
     title: AT mode
     
     author: swang
