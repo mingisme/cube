@@ -16,7 +16,7 @@
 - Relational databases that suport local ACID transaction.
 - Java applications that access database via JDBC.
 
-\$f(x) = x^2 + 1\$
+$f(x) = x^2 + 1$
 
 ## Overall mechanism
 
