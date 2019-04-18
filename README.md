@@ -1,3 +1,17 @@
+11111111
+99999999
+88888888
+
+
+77777777
+66666666
+55555555
+44444444
+33333333
+222222222
+111111111
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 [//]: #
 (title: Fescar AT mode)
@@ -13,10 +27,11 @@
 
 ## Prerequisite
 
+
 - Relational databases that suport local ACID transaction.
 - Java applications that access database via JDBC.
 
-$f(x) = x^2 + 1$
+$$ x^{y^z}=(1+{\rm e}^x)^{-2xy^w} $$
 
 ## Overall mechanism
 
@@ -215,3 +230,6 @@ CREATE TABLE `undo_log` (
   KEY `idx_unionkey` (`xid`,`branch_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 ```
+
+
+
