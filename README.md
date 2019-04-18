@@ -1,8 +1,6 @@
 11111111
 99999999
 88888888
-
-
 77777777
 66666666
 55555555
@@ -10,7 +8,6 @@
 33333333
 222222222
 111111111
-
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 [//]: #
